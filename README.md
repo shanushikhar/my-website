@@ -7,3 +7,5 @@ __updating__ from example branch
  adding more.. from locally
 
 lets do from remotely
+
+alright from the locally
