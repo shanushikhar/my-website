@@ -9,3 +9,5 @@ __updating__ from example branch
 lets do from remotely
 
 alright from the locally
+
+from branch named => new_branchy
