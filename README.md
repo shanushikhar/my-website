@@ -2,4 +2,4 @@
 
 This is a really awesome website
 
-... updating ... from example branch
+__updating__ from example branch
